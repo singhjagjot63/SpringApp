@@ -1,4 +1,4 @@
 package gurucourse.springframework.SpringApp;
 
-public class Yeahh {
+public class NewClass {
 }
